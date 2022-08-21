@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+
+body{
+    background-color: #3a3a3a;
+    color: #0f141e;
+
+    font-size: 17px;
+    font-weight: normal;
+    font-family: 'DynaPuff', cursive;
+
+
+}
+
+.avatar{
+    width: 270px;
+    border-radius: 20px;
+    box-shadow: 4px 12px 30px rgba(0,0,0,0.25);
+}
+.info p{
+    color: #86898f;
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+    border: aqua;
+    margin: auto;
+    
+    /* text-transform: capitalize; */
+    /* letter-spacing: 3px; */
+    /* word-spacing: 0px; */
+}
+.container{
+    max-width: 750px;
+    margin: auto;
+}
+.cocial{
+    padding-left: 3%;
+    border: 10px solid green;
+    border-left-width: 0px;
+    border-right-width: 15px;
+    border-bottom: 0px;
+    border-top-right-radius: 3cm;
+    margin: 10px;
+
+}
+.info2{
+    padding-left: 3%;
+    border: 10px solid green;
+    border-left-width: 0px;
+    border-right-width: 15px;
+    border-bottom: 0px;
+    border-top-right-radius: 3cm;
+    margin: 10px;
+}
+.hobbies{
+    padding-left: 3%;
+    border: 10px solid green;
+    border-left-width: 0px;
+    border-right-width: 15px;
+    border-bottom: 0px;
+    border-top-right-radius: 3cm;
+    margin: 10px;
+}
+.education{
+    padding-left: 3%;
+    border: 10px solid green;
+    border-left-width: 0px;
+    border-right-width: 15px;
+    border-bottom: 0px;
+    border-top-right-radius: 3cm;
+    margin: 10px;
+}
+.experience{
+    padding-left: 3%;
+    border: 10px solid green;
+    border-left-width: 0px;
+    border-right-width: 16px;
+    border-bottom: 0px;
+    border-top-right-radius: 3cm;
+    margin: 10px;
+}
+.connection{
+    padding-left: 3%;
+    border: 10px solid green;
+    border-left-width: 0px;
+    border-right-width: 16px;
+    border-bottom: 0px;
+    border-top-right-radius: 3cm;
+    margin: 10px;
+}
